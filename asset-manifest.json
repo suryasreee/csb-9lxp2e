@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://suryasreee.github.io/csb-9lxp2e/static/css/main.f8211fa4.chunk.css",
+    "main.js": "https://suryasreee.github.io/csb-9lxp2e/static/js/main.11c893dd.chunk.js",
+    "main.js.map": "https://suryasreee.github.io/csb-9lxp2e/static/js/main.11c893dd.chunk.js.map",
+    "runtime-main.js": "https://suryasreee.github.io/csb-9lxp2e/static/js/runtime-main.95690b7a.js",
+    "runtime-main.js.map": "https://suryasreee.github.io/csb-9lxp2e/static/js/runtime-main.95690b7a.js.map",
+    "static/js/2.60cc2667.chunk.js": "https://suryasreee.github.io/csb-9lxp2e/static/js/2.60cc2667.chunk.js",
+    "static/js/2.60cc2667.chunk.js.map": "https://suryasreee.github.io/csb-9lxp2e/static/js/2.60cc2667.chunk.js.map",
+    "index.html": "https://suryasreee.github.io/csb-9lxp2e/index.html",
+    "static/css/main.f8211fa4.chunk.css.map": "https://suryasreee.github.io/csb-9lxp2e/static/css/main.f8211fa4.chunk.css.map",
+    "static/js/2.60cc2667.chunk.js.LICENSE.txt": "https://suryasreee.github.io/csb-9lxp2e/static/js/2.60cc2667.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95690b7a.js",
+    "static/js/2.60cc2667.chunk.js",
+    "static/css/main.f8211fa4.chunk.css",
+    "static/js/main.11c893dd.chunk.js"
+  ]
+}
